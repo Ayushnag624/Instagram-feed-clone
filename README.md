@@ -12,7 +12,7 @@ https://drive.google.com/file/d/1PltMd2CBLxmgGDEuVLgOyrm0qhAuazgN/view?usp=drive
 
 APK
 You can download and test the APK here:
-https://drive.google.com/file/d/1iPOpTQFdQtlQUtgyBfvSkXTB11jcXdP5/view?usp=drivesdk
+https://drive.google.com/file/d/1-B-x6iuIW1PqYFxOeNaVZUdElt2MuQuW/view?usp=drivesdk
 
 ---
 Features
