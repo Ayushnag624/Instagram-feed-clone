@@ -6,7 +6,15 @@ This project is a Flutter implementation of an Instagram-style home feed.
 The application displays a scrolling list of posts with image carousels, basic interactions, and loading placeholders. The goal was to replicate the behavior and UI of a social media feed while ensuring smooth performance and clean architecture.
 
 ---
+Demo Video
+Video walkthrough of the application:
+https://drive.google.com/file/d/1PltMd2CBLxmgGDEuVLgOyrm0qhAuazgN/view?usp=drivesdk
 
+APK
+You can download and test the APK here:
+https://drive.google.com/file/d/1iPOpTQFdQtlQUtgyBfvSkXTB11jcXdP5/view?usp=drivesdk
+
+---
 Features
 
 - Instagram-style feed UI
